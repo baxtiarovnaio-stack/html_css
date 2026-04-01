@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <title>Tapsirma</title>
+     <style>
+        .alma{
+            display: inline-block;
+            background-color: rgb(223, 59, 59);
+            color: black;
+            padding: 0 10px;
+            width: 98px;
+            box-sizing: border-box;
+        }
+        .banan{
+            display: inline-block;
+            background-color: rgb(97, 223, 59);
+            color: black;
+            padding: 0 10px;
+            width: 98px;
+            box-sizing: border-box;
+        }
+        .juzim{
+            display: inline-block;
+            background-color: rgb(31, 180, 148);
+            color: black;
+            padding: 0 10px;
+            width: 200px;
+            box-sizing: border-box;
+            margin-top: 2px;
+        }
+
+     </style>
+</head>
+<body>
+    <span class="alma">Alma</span>
+    <span class="banan">Banan</span> 
+    <span class="juzim">Juzim</span>
+</body>
+</html>
