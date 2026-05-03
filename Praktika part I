@@ -49,11 +49,14 @@
        </style>
     </head>
     <bady>
+        <!-- Praktika part 1-->
         <a class="uzum" href="https://uzumei.uz/">Uzumnan nan satip aliw</a>
+        <!-- 1 tapsirma -->
         <h1>Miyweler</h1>
         <p class="jasil">Alma</p>
         <p class="qizil">Pamidor</p>
         <p class="sari">Banan</p>
+        <!-- 2 tapsirma-->
         <button class="sebet">Sebet</button>
         <button class="satip">Satip aliw</button>
     </bady>
