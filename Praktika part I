@@ -1,0 +1,60 @@
+<! DOCTYPE html>
+
+<html>
+    <head>
+       <style>
+           .uzum:hover{
+               color: red;
+               transition-duration: 2s;
+                
+           }
+           h1:hover{
+               text-shadow: 5px -5px 6px
+               black;
+           }
+           h1{
+               transition-duration: 2s; 
+           }
+           .jasil:hover{
+               background-color:
+               green;
+               color: white;
+                
+           }
+           .qizil:hover{
+               background-color: red;
+               color: white;
+           }
+           .qizil{
+               transition-duration: 2s;
+           }
+           .sari:hover{
+               background-color: yellow;
+               color: white;
+           }
+           .sari{
+               transition-duration: 2s;
+           }
+           .sebet:hover{
+               border: dotted pink ;
+               color: pink;
+           }
+           .satip:hover{
+               background-color: green;
+               color: white;
+               border: none;
+               box-shadow: -5px -5px 6px green;
+               transition-duration: 2s;
+           }
+       </style>
+    </head>
+    <bady>
+        <a class="uzum" href="https://uzumei.uz/">Uzumnan nan satip aliw</a>
+        <h1>Miyweler</h1>
+        <p class="jasil">Alma</p>
+        <p class="qizil">Pamidor</p>
+        <p class="sari">Banan</p>
+        <button class="sebet">Sebet</button>
+        <button class="satip">Satip aliw</button>
+    </bady>
+</html>
